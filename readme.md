@@ -4,6 +4,16 @@
 
 This project is a solution for the Preqin Fullstack Technical Take-Home Task. It provides a web application that lists investors, their details, and the total of their commitments. Upon selecting an investor, users can view a breakdown of their commitments, with an option to filter by asset class.
 
+## Preview
+
+### Preview 1
+
+![Investor List](preview1.png)
+
+### Preview 2
+
+![Commitments](preview2.png)
+
 ## Backend
 
 ### Tech Stack
