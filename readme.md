@@ -6,11 +6,11 @@ This project is a solution for the Preqin Fullstack Technical Take-Home Task. It
 
 ## Preview
 
-### Preview 1
+### Investor List
 
 ![Investor List](preview1.png)
 
-### Preview 2
+### Commitments
 
 ![Commitments](preview2.png)
 
