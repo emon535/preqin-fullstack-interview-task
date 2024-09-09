@@ -99,3 +99,8 @@ The frontend will be running at `http://192.168.1.26:3000`
 - Optimize API calls to reduce load times and improve performance.
 - Write tests for components and API integration to ensure stability.
 - Containerize the frontend using Docker for easier deployment.
+
+#### Individual Repo to check commit history :
+
+- https://github.com/emon535/preqin-frontend
+- https://github.com/emon535/preqin-backend
